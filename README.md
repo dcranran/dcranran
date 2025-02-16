@@ -1,5 +1,6 @@
-## Hi there 👋
+## Halo semua 👋
 
+Perkenalkan nama saya **Dwi Cahya Nurani**.<br>
 <!--
 **dcranran/dcranran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
